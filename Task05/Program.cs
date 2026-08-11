@@ -35,6 +35,13 @@
             //book.genre = Genre.NonFiction;
             //Console.WriteLine((int)book.genre); 
             #endregion
+
+            #region Q6
+            //Book book = new Book();
+            //int genreNumber = 1;
+            //book.genre = (Genre)genreNumber;
+            //Console.WriteLine(book.ge); 
+            #endregion
         }
     }
 }
