@@ -58,6 +58,12 @@
             //Console.WriteLine(book.genre); 
             #endregion
 
+            #region Q9
+            //string genreText = "Mystery";
+            //Book book = new Book();
+            //Enum.TryParse(genreText, out book.genre);
+            //Console.WriteLine(book.genre); 
+            #endregion
 
         }
     }

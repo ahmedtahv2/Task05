@@ -6,7 +6,8 @@ namespace Task05
 {
     internal enum Genre
     {
-        fiction=1,
+        UnknownGenre =0,
+        fiction ,
         NonFiction,
         science
     }
