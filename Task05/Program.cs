@@ -27,6 +27,14 @@
             //book.genre = Genre.science;
             //Console.WriteLine(book.genre); 
             #endregion
+
+            #region Q5
+            //Book book = new Book();
+            //book.genre = Genre.fiction;
+            //Console.WriteLine((int)book.genre);
+            //book.genre = Genre.NonFiction;
+            //Console.WriteLine((int)book.genre); 
+            #endregion
         }
     }
 }
