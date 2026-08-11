@@ -42,13 +42,23 @@
             //book.genre = (Genre)genreNumber;
             //Console.WriteLine(book.ge); 
             #endregion
-            #region Q7+
+
+            #region Q7
 
             //Book book = new Book();
             //book.genre = Genre.fiction;
             //string genreString = book.genre.ToString();
             //Console.WriteLine(genreString); 
             #endregion
+
+            #region Q8
+            //Book book = new Book();
+            //string genreText = "science";
+            //Enum.TryParse(genreText, out book.genre);
+            //Console.WriteLine(book.genre); 
+            #endregion
+
+
         }
     }
 }
