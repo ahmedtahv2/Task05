@@ -8,6 +8,7 @@ namespace Task05
     {
         string password = "secret";
        internal int copiesInStock = 5;
-        public string Title;
+        public string title;
+        public Genre genre;
     }
 }

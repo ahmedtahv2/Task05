@@ -22,7 +22,11 @@
             //Console.WriteLine(book.Title); 
             #endregion
 
-
+            #region Q4
+            //Book book = new Book();
+            //book.genre = Genre.science;
+            //Console.WriteLine(book.genre); 
+            #endregion
         }
     }
 }
