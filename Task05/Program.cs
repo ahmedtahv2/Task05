@@ -42,6 +42,13 @@
             //book.genre = (Genre)genreNumber;
             //Console.WriteLine(book.ge); 
             #endregion
+            #region Q7+
+
+            //Book book = new Book();
+            //book.genre = Genre.fiction;
+            //string genreString = book.genre.ToString();
+            //Console.WriteLine(genreString); 
+            #endregion
         }
     }
 }
